@@ -230,6 +230,4 @@ foreach ($result as $row)
 <?php endif; ?>
 
 
-
-
 <?php require_once('footer.php'); ?>
